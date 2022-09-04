@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Seungheon Baek from South Korea.
+- ❓ I’m a banker(loan specialist) with a strong passion to learn how to code. 
+- 🌱 I’m currently learning how to build beautiful looking websites. 
+- ✅ I’m looking to collaborate on any projects that I can be exposed to have better skills/understanding on Front-end.
+- ₿  I'm a Bitcoiner and I believe it solves the biggest problem that we have at the moment, which is money.
+- 📩 You can reach me at kor112334@gmail.com
